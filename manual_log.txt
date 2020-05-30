@@ -1,0 +1,9 @@
+#### LOG OF THINGS DONE with DATE
+5/30/2020
+(1) Forked github repository https://github.com/udacity/AIPND
+(2) Cloned forked github repository.
+(3) Changed the name of remote from origin to forked-repo
+(4) Added remote (link to original ) git hub - name of original
+    source-repository
+(5) Created new branch (shaannoor_practise_May_2020) on forked-rep
+(6) Future changes in source-repo will be mergd with master branch of forked-repository
