@@ -7,3 +7,5 @@
     source-repository
 (5) Created new branch (shaannoor_practise_May_2020) on forked-rep
 (6) Future changes in source-repo will be mergd with master branch of forked-repository
+(7) Ran following line to handle LF , CRLF warnings
+    git config --global core.autocrlf true
