@@ -9,3 +9,10 @@
 (6) Future changes in source-repo will be mergd with master branch of forked-repository
 (7) Ran following line to handle LF , CRLF warnings
     git config --global core.autocrlf true
+
+(8) Made the following changes in .bash_profile file
+export PATH="$PATH:/Users/hxs104000/Anaconda3/envs/buan6341_2020:/Users/hxs104000/Anaconda3/envs/buan6341_2020/Scripts:/Users/hxs104000/Anaconda3:/Users/hxs104000/Anaconda3/Scripts"
+alias python="winpty python.exe"
+
+(9) run teh following command : conda init shell
+This resulted in following line in .bash_profile file : eval "$('/c/Users/hxs104000/Anaconda3/Scripts/conda.exe' 'shell.bash' 'hook')"
